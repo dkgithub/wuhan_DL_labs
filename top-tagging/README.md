@@ -10,3 +10,5 @@ The aim is to learn by experimenting with the given examples!
 
 Have fun!
 
+Credits to 
+* Intro_Pandas.ipynb https://pandas.pydata.org/
