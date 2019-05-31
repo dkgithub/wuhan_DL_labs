@@ -12,3 +12,9 @@ The aim is to learn by experimenting with the given examples!
 
 
 Have fun!
+
+Some material had been forked. Credits to
+* Vanderbilt University's Department of Biostatistics - https://github.com/fonnesbeck/Bios8366/blob/master/README.md
+* J.R. Johansson (robert@riken.jp) -  http://jrjohansson.github.io/numericalpython.html
+* jwink3101 https://github.com/Jwink3101/matplotlib_tips_examples
+and references therein.
