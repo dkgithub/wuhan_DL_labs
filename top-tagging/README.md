@@ -12,3 +12,5 @@ Have fun!
 
 Credits to 
 * Intro_Pandas.ipynb https://pandas.pydata.org/
+
+See jet_data/README.md  where to find the data for this tutorial.
